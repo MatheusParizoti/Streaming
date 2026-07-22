@@ -126,6 +126,6 @@ Gerado automaticamente a partir do `streaming.db`: KPIs em destaque (total de vi
  
 O `adicionar_visualizacao.py` é um formulário interativo no terminal para registrar novas visualizações sem escrever SQL na mão: permite selecionar uma conta já existente ou cadastrar um novo usuário na hora, filtra os títulos por gênero, e usa automaticamente a data do dia em que o formulário é respondido.
  
-## 💡 Insight interessante encontrado nos dados
+## Insight interessante encontrado nos dados
  
 Na consulta de ranking de usuários, o usuário com **mais minutos assistidos no geral é do plano free**, à frente de vários assinantes premium — mostrando que engajamento individual pode superar a tendência média por plano. Um bom exemplo de como a análise revela padrões que a intuição sozinha não prevê.
